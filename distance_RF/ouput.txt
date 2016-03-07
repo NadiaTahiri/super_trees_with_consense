@@ -1,0 +1,10 @@
+* --------------------------------------------------*
+* Computation of the Robinson and Foulds            *
+* topological distance between two (or more) trees. *
+* ------------------------------------------------- *
+
+RF Distance between Tree 1 and Tree 2 = 13
+
+
+1	0 13 
+2	13 0 
