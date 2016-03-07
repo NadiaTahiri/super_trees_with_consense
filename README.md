@@ -1,9 +1,9 @@
-# super_trees_with_consense
-If Linux 
-dos2unix lancementScripts.bat
-bash lancementScripts.bat 
-cd ConsensusTrees/
-
-
-Example:
-./consensusTrees -tree File10.txt
+# super_trees_with_consense <br>
+If Linux <br>
+dos2unix lancementScripts.bat<br>
+bash lancementScripts.bat <br>
+cd ConsensusTrees/<br>
+<br>
+<br>
+Example:<br>
+./consensusTrees -tree File10.txt<br>
